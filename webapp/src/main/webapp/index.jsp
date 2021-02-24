@@ -4,7 +4,7 @@
 <html>
 
 <head>
-    <title>Hello, VETS</title>
+    <title>Viktor, Dubovyk</title>
     <link rel="stylesheet" href="/style.css">
     <script src="/script.js"></script>
 </head>
