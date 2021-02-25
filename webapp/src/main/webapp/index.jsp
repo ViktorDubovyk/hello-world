@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1>Hello, DEVOPS</h1>
+    <h1>Hello DEVOPS</h1>
 
     <button onclick="fetchMessage()">Fetch Message</button>
     <p id="message">Click on the button to fetch the message.</p>
